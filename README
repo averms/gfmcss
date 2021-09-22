@@ -13,10 +13,7 @@ alternative to grip[2].
 usage
 -----
 Use with jsdelivr:
-    <https://cdn.jsdelivr.net/gh/a-vrma/gfmcss@0.1.1/gfm.min.css>
+    <https://cdn.jsdelivr.net/gh/averms/gfmcss@0.1.1/gfm.min.css>
 
 Use with raw.githack.com:
-    <https://rawcdn.githack.com/a-vrma/gfmcss/0.1.1/gfm.min.css>
-
-Use with gitcdn.xyz:
-    <https://gitcdn.xyz/cdn/a-vrma/gfmcss/0.1.1/gfm.min.css>
+    <https://rawcdn.githack.com/averms/gfmcss/0.1.1/gfm.min.css>

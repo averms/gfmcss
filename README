@@ -3,9 +3,10 @@ gfmcss
 Generated with generate-github-markdown-css[1].
 Minified with cssnano.
 
-There is also a script, gfm.sh, that will send your markdown to GitHub's API for
-rendering and then open a web browser with the resulting HTML. It is a minimal
-alternative to grip[2].
+There are two scripts, gfm.sh and gfm.py, that send your markdown to GitHub's API for
+rendering and then open a web browser with the resulting HTML. The Python version works
+much better and can be used as an alternative to grip[2]. The Python script requires uv
+to run.
 
 [1]: https://github.com/sindresorhus/generate-github-markdown-css
 [2]: https://github.com/joeyespo/grip
